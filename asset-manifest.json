@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.d5f59aee.css",
-    "main.js": "/static/js/main.b11c128b.js",
+    "main.css": "/static/css/main.fbdbb19a.css",
+    "main.js": "/static/js/main.199c8edb.js",
     "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
-    "static/media/daniel.jpg": "/static/media/daniel.1305851d31cd7e13d4ad.jpg",
+    "static/media/daniel.jpg": "/static/media/daniel.bc4020e587896484ea5f.jpg",
+    "static/media/link.svg": "/static/media/link.d34fc794a6883d79518455197eddfac8.svg",
+    "static/media/instagram.svg": "/static/media/instagram.87c76e4323e70dffdbc17b6fb5c106cc.svg",
+    "static/media/tiktok.svg": "/static/media/tiktok.e2f7b46ef661b11fef71d98a6a296379.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.bba8c75742516e5ff88c68b0b4fdcacc.svg",
     "index.html": "/index.html",
-    "main.d5f59aee.css.map": "/static/css/main.d5f59aee.css.map",
-    "main.b11c128b.js.map": "/static/js/main.b11c128b.js.map",
+    "static/media/twitter.svg": "/static/media/twitter.434d78983dc4e87cf4f846677374712a.svg",
+    "main.fbdbb19a.css.map": "/static/css/main.fbdbb19a.css.map",
+    "main.199c8edb.js.map": "/static/js/main.199c8edb.js.map",
     "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5f59aee.css",
-    "static/js/main.b11c128b.js"
+    "static/css/main.fbdbb19a.css",
+    "static/js/main.199c8edb.js"
   ]
 }
